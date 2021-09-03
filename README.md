@@ -1,2 +1,2 @@
 # KeyboardByTimer
-totoshampoin.github.io/KeyboardByTimer
+https://totoshampoin.github.io/KeyboardByTimer
